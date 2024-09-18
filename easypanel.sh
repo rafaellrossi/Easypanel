@@ -10,3 +10,4 @@ sudo apt install -y docker-ce docker-ce-cli containerd.io docker-buildx-plugin d
 sudo systemctl start docker
 sudo systemctl enable docker
 curl -sSL https://get.easypanel.io | sh
+
